@@ -1,4 +1,3 @@
 Title: About
-Category: Review
 
-Following is a review of my favorite mechanical keyboard.
+I am a statistician and data analyst interested in computational statistics problems.
