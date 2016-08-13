@@ -1,5 +1,3 @@
 Title: About
 
-<img style="float:right; padding-left:10px" src="|filename|/images/drchivins_small.png" />
-
-I am a statistician and data analyst interested in computational methods for solving data driven problems. My interests extend to machine learning , network theory, and data science across a variety of disciplines. At the moment I am working, among other things, in my master's thesis at Cal State Long Beach in genomic data analysis for cancer research.
+I am a statistician and data analyst interested in computational statistics, machine learning, and applied graph analysis. My primary interests are wide including statistical learning in genomics, data mining in education, and the statistical study of criminal networks. I also teach college level courses in calculus and business statistics. At the moment I am working at California State University, Long Beach, in the department of Institutional Research. My main responsibility at CSULB is the building of predictive analytics and data mining capabilities in order to assist this institution in data driven decision and policy making.
