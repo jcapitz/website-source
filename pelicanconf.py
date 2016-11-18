@@ -45,7 +45,7 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-#LINKS = ((),)
+# LINKS = (('Election Forecast','http://projects.fivethirtyeight.com/2016-election-forecast/'),)
 
 # Social widget
 SOCIAL = (('linkedin', 'https://www.linkedin.com/in/jcapitz'),
